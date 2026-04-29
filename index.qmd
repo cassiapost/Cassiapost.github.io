@@ -1,17 +1,18 @@
 ---
-title: "Cassia Post"
+title: "Alicia"
 subtitle: "Data Scientist"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
 image: profile.jpg
-image-alt: "Photo of Cassia Post"
+image-alt: "Photo of a door partially open revealing a green landscape"
 about: # https://quarto.org/docs/websites/website-about.html
-  template: trestles
+  template: jolla
   links:
     - icon: github
       text: Github
       href: https://github.com
     - icon: linkedin
-      text: LinkedInquor
+      text: LinkedIn
+      href: https://linkedin.com
 ---
 
 A little bit about me and my life. 
