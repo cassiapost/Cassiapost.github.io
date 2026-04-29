@@ -1,25 +1,25 @@
 ---
-title: "Alicia"
+title: "Cassia Post"
 subtitle: "Data Scientist"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
 image: profile.jpg
-image-alt: "Photo of a door partially open revealing a green landscape"
+image-alt: "Photo cassia post"
 about: # https://quarto.org/docs/websites/website-about.html
-  template: jolla
+  template: trestles
   links:
     - icon: github
       text: Github
       href: https://github.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/cassia-post-a4602b362/
 ---
 
 A little bit about me and my life. 
 
 ## Education
 
-University of XYZ, City \| Location \| Sept 20XX - June 20XX
+Reed College, Portland \| Oregon \| Sept 2003 - Current
 
 ## Experience
 
